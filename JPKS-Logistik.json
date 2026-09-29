@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "lastUpdated": "2026-09-29T08:16:33.316Z",
+  "version": 5,
+  "lastUpdated": "2026-09-29T08:16:55.220Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -8,6 +8,12 @@
       "username": "Nofrizal",
       "password": "Nofrizal123",
       "role": "Master Admin"
+    },
+    {
+      "fullName": "Sawiyah Pohan",
+      "username": "Sawiyah",
+      "password": "Sawiyah123",
+      "role": "Staff"
     }
   ],
   "employees": [
@@ -210,6 +216,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669815221",
+      "title": "Akun Didaftarkan",
+      "message": "User baru 'Sawiyah' (Staff) ditambahkan.",
+      "icon": "fa-info-circle",
+      "time": "15:16",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669793316",
       "title": "Akun Dihapus",
