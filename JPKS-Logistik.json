@@ -1,6 +1,6 @@
 {
-  "version": 29,
-  "lastUpdated": "2026-09-29T08:22:07.697Z",
+  "version": 30,
+  "lastUpdated": "2026-09-29T08:22:09.635Z",
   "lastUpdatedBy": "Sawiyah",
   "users": [
     {
@@ -32,30 +32,7 @@
       "status": "Aktif"
     }
   ],
-  "transactions": [
-    {
-      "id": "TRX-ATK-002",
-      "date": "28/09/2026 14:15",
-      "transType": "OUT",
-      "partner": "Budi Santoso - Engineering",
-      "remarks": "Keperluan cetak dokumen teknis batch 2",
-      "items": [
-        {
-          "type": "ATK",
-          "name": "Kertas HVS A4 80gr SiDu",
-          "qtyVal": 12,
-          "qtyStr": "12 Rim"
-        },
-        {
-          "type": "Consumable",
-          "name": "Tinta Printer Epson 003 Black",
-          "qtyVal": 9,
-          "qtyStr": "9 Pcs"
-        }
-      ],
-      "issuer": "Nofrizal"
-    }
-  ],
+  "transactions": [],
   "apdTransactions": [
     {
       "id": "TRX-APD-001",
@@ -167,6 +144,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670129635",
+      "title": "Transaksi ATK Dihapus",
+      "message": "Log transaksi untuk Budi Santoso - Engineering dihapus oleh Sawiyah.",
+      "icon": "fa-info-circle",
+      "time": "15:22",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670127697",
       "title": "Transaksi ATK Dihapus",
