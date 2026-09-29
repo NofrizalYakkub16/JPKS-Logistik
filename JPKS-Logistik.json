@@ -1,7 +1,7 @@
 {
-  "version": 22,
-  "lastUpdated": "2026-09-29T08:20:39.958Z",
-  "lastUpdatedBy": "Sawiyah",
+  "version": 25,
+  "lastUpdated": "2026-09-29T08:21:29.796Z",
+  "lastUpdatedBy": "Nofrizal",
   "users": [
     {
       "fullName": "Nofrizal Yakkub",
@@ -29,6 +29,13 @@
       "name": "Nofrizal Yakkub",
       "department": "Support",
       "email": "Nofrizal.Yakkub@tripatra.com",
+      "status": "Aktif"
+    },
+    {
+      "idBadge": "225009",
+      "name": "Nanda Novritaldi",
+      "department": "Support",
+      "email": "Nanda.Novitraldi@tripatra.com",
       "status": "Aktif"
     }
   ],
@@ -195,6 +202,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670089796",
+      "title": "Karyawan Ditambahkan",
+      "message": "Karyawan baru 'Nanda Novritaldi' (225009) berhasil didaftarkan.",
+      "icon": "fa-info-circle",
+      "time": "15:21",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670039958",
       "title": "Karyawan Ditambahkan",
