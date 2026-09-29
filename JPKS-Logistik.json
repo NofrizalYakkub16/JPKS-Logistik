@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-09-29T07:46:54.333Z",
+  "lastUpdatedBy": "System Init",
+  "users": [
+    {
+      "fullName": "Nofrizal Yakkub",
+      "username": "Nofrizal",
+      "password": "Nofrizal123",
+      "role": "Master Admin"
+    },
+    {
+      "fullName": "Siti Rahma",
+      "username": "siti",
+      "password": "123",
+      "role": "Staff"
+    },
+    {
+      "fullName": "Guest Auditor",
+      "username": "visitor",
+      "password": "123",
+      "role": "Visitor"
+    }
+  ],
+  "employees": [
+    {
+      "idBadge": "EMP-001",
+      "name": "Budi Santoso",
+      "department": "Engineering",
+      "email": "budi.santoso@tripatra.com",
+      "status": "Aktif"
+    },
+    {
+      "idBadge": "EMP-002",
+      "name": "Siti Rahma",
+      "department": "Logistics",
+      "email": "siti.rahma@tripatra.com",
+      "status": "Aktif"
+    },
+    {
+      "idBadge": "EMP-003",
+      "name": "Ahmad Fauzi",
+      "department": "Procurement",
+      "email": "ahmad.fauzi@tripatra.com",
+      "status": "Non - Aktif"
+    },
+    {
+      "idBadge": "EMP-004",
+      "name": "Rian Hidayat",
+      "department": "Construction",
+      "email": "rian.hidayat@tripatra.com",
+      "status": "Aktif"
+    },
+    {
+      "idBadge": "EMP-005",
+      "name": "Dewi Lestari",
+      "department": "HSE & Safety",
+      "email": "dewi.lestari@tripatra.com",
+      "status": "Aktif"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TRX-ATK-001",
+      "date": "28/09/2026 08:30",
+      "transType": "IN",
+      "partner": "PT Graha Sarana Kertas",
+      "remarks": "Restock Bulanan Gudang Utama JPKS",
+      "items": [
+        {
+          "type": "ATK",
+          "name": "Kertas HVS A4 80gr SiDu",
+          "qtyVal": 50,
+          "qtyStr": "50 Rim"
+        },
+        {
+          "type": "ATK",
+          "name": "Pulpen Faster C600 Hitam",
+          "qtyVal": 20,
+          "qtyStr": "20 Box"
+        },
+        {
+          "type": "Consumable",
+          "name": "Tinta Printer Epson 003 Black",
+          "qtyVal": 12,
+          "qtyStr": "12 Pcs"
+        }
+      ],
+      "issuer": "Nofrizal"
+    },
+    {
+      "id": "TRX-ATK-002",
+      "date": "28/09/2026 14:15",
+      "transType": "OUT",
+      "partner": "Budi Santoso - Engineering",
+      "remarks": "Keperluan cetak dokumen teknis batch 2",
+      "items": [
+        {
+          "type": "ATK",
+          "name": "Kertas HVS A4 80gr SiDu",
+          "qtyVal": 12,
+          "qtyStr": "12 Rim"
+        },
+        {
+          "type": "Consumable",
+          "name": "Tinta Printer Epson 003 Black",
+          "qtyVal": 9,
+          "qtyStr": "9 Pcs"
+        }
+      ],
+      "issuer": "Nofrizal"
+    }
+  ],
+  "apdTransactions": [
+    {
+      "id": "TRX-APD-001",
+      "date": "27/09/2026 09:00",
+      "transType": "IN",
+      "serviceType": "IN",
+      "partner": "PT Safety First Indonesia",
+      "remarks": "Pengadaan APD Proyek JPK Selatan",
+      "items": [
+        {
+          "type": "Safety Helmet",
+          "name": "MSA V-Gard Putih",
+          "qtyVal": 30,
+          "qtyStr": "30 Pcs"
+        },
+        {
+          "type": "Safety Shoes",
+          "name": "Krusher Texas Size 42",
+          "qtyVal": 20,
+          "qtyStr": "20 Pcs"
+        },
+        {
+          "type": "Full Body Harness",
+          "name": "Double Lanyard Absorber",
+          "qtyVal": 15,
+          "qtyStr": "15 Pcs"
+        },
+        {
+          "type": "Coveral (FRC)",
+          "name": "Nomex IIIA Navy Size L",
+          "qtyVal": 25,
+          "qtyStr": "25 Pcs"
+        }
+      ],
+      "issuer": "Nofrizal"
+    },
+    {
+      "id": "TRX-APD-002",
+      "date": "28/09/2026 10:20",
+      "transType": "OUT",
+      "serviceType": "PEMINJAMAN",
+      "partner": "Rian Hidayat - Construction",
+      "remarks": "Inspeksi struktur ketinggian area rig",
+      "items": [
+        {
+          "type": "Full Body Harness",
+          "name": "Double Lanyard Absorber",
+          "qtyVal": 2,
+          "qtyStr": "2 Pcs"
+        }
+      ],
+      "issuer": "Nofrizal"
+    }
+  ],
+  "apdLoans": [
+    {
+      "id": "LOAN-89A2B",
+      "date": "28/09/2026 10:20",
+      "receiver": "Rian Hidayat - Construction",
+      "itemSummary": "Full Body Harness - Double Lanyard Absorber (2 Pcs)",
+      "notes": "Inspeksi struktur ketinggian area rig",
+      "status": "Dipinjam",
+      "issuer": "Nofrizal"
+    }
+  ],
+  "assets": [
+    {
+      "code": "TLS-TRIPATRA-SN-88923-ML",
+      "name": "Mesin Las Miller 400A",
+      "category": "Tools",
+      "serial": "SN-88923-ML",
+      "location": "Workshop JPK Selatan",
+      "status": "Bagus"
+    },
+    {
+      "code": "TLS-TRIPATRA-SN-GEN-5510",
+      "name": "Generator Genset 50KVA",
+      "category": "Tools",
+      "serial": "SN-GEN-5510",
+      "location": "Yard Utama JPK",
+      "status": "Sedang Dipinjam"
+    },
+    {
+      "code": "TLS-TRIPATRA-SN-NIK-9921",
+      "name": "Theodolite Digital Nikon",
+      "category": "Tools",
+      "serial": "SN-NIK-9921",
+      "location": "Surveyor Room",
+      "status": "Bagus"
+    },
+    {
+      "code": "AST-TRIPATRA-FC-9912",
+      "name": "Filling Cabinet 4 Laci",
+      "category": "Asset Kantor",
+      "serial": "FC-9912",
+      "location": "Ruang Admin",
+      "status": "Bagus"
+    }
+  ],
+  "toolLoans": [
+    {
+      "id": "TLOAN-01",
+      "date": "25/09/2026",
+      "borrower": "Rian Hidayat - Construction",
+      "assetId": "TLS-TRIPATRA-SN-GEN-5510",
+      "assetName": "Generator Genset 50KVA",
+      "returnDate": "10 Oktober 2026",
+      "status": "Dipinjam"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "NOTIF-INIT",
+      "title": "Server Real-Time Aktif",
+      "message": "WebSocket Server JPKS Logistik V11.5 siap menyinkronkan data secara instan di seluruh perangkat.",
+      "icon": "fa-bolt",
+      "time": "08:00",
+      "read": false
+    }
+  ]
+}
