@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "lastUpdated": "2026-09-29T08:21:29.796Z",
+  "version": 27,
+  "lastUpdated": "2026-09-29T08:21:39.092Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -29,13 +29,6 @@
       "name": "Nofrizal Yakkub",
       "department": "Support",
       "email": "Nofrizal.Yakkub@tripatra.com",
-      "status": "Aktif"
-    },
-    {
-      "idBadge": "225009",
-      "name": "Nanda Novritaldi",
-      "department": "Support",
-      "email": "Nanda.Novitraldi@tripatra.com",
       "status": "Aktif"
     }
   ],
@@ -202,6 +195,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670099092",
+      "title": "Karyawan Dihapus",
+      "message": "Karyawan 'Nanda Novritaldi' telah dihapus dari sistem.",
+      "icon": "fa-info-circle",
+      "time": "15:21",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670089796",
       "title": "Karyawan Ditambahkan",
