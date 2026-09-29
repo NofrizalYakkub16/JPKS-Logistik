@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "lastUpdated": "2026-09-29T08:19:13.956Z",
+  "version": 10,
+  "lastUpdated": "2026-09-29T08:19:15.532Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -17,13 +17,6 @@
     }
   ],
   "employees": [
-    {
-      "idBadge": "EMP-002",
-      "name": "Siti Rahma",
-      "department": "Logistics",
-      "email": "siti.rahma@tripatra.com",
-      "status": "Aktif"
-    },
     {
       "idBadge": "EMP-003",
       "name": "Ahmad Fauzi",
@@ -216,6 +209,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669955532",
+      "title": "Karyawan Dihapus",
+      "message": "Karyawan 'Siti Rahma' telah dihapus dari sistem.",
+      "icon": "fa-info-circle",
+      "time": "15:19",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669953956",
       "title": "Karyawan Dihapus",
