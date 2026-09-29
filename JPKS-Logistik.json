@@ -1,6 +1,6 @@
 {
-  "version": 35,
-  "lastUpdated": "2026-09-29T08:34:03.323Z",
+  "version": 36,
+  "lastUpdated": "2026-09-29T08:38:32.019Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -100,14 +100,6 @@
   ],
   "assets": [
     {
-      "code": "TLS-TRIPATRA-SN-88923-ML",
-      "name": "Mesin Las Miller 400A",
-      "category": "Tools",
-      "serial": "SN-88923-ML",
-      "location": "Workshop JPK Selatan",
-      "status": "Bagus"
-    },
-    {
       "code": "TLS-TRIPATRA-SN-GEN-5510",
       "name": "Generator Genset 50KVA",
       "category": "Tools",
@@ -144,6 +136,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790671112019",
+      "title": "Asset Dihapus",
+      "message": "Asset 'Mesin Las Miller 400A' telah dihapus.",
+      "icon": "fa-info-circle",
+      "time": "15:38",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670708067",
       "title": "Transaksi ATK Dihapus",
