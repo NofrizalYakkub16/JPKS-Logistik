@@ -1,6 +1,6 @@
 {
-  "version": 30,
-  "lastUpdated": "2026-09-29T08:22:09.635Z",
+  "version": 32,
+  "lastUpdated": "2026-09-29T08:23:41.835Z",
   "lastUpdatedBy": "Sawiyah",
   "users": [
     {
@@ -32,7 +32,30 @@
       "status": "Aktif"
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "TRX-1790670221835",
+      "date": "29/09/2026 15:23",
+      "transType": "IN",
+      "partner": "PT. Payung Sekaki",
+      "remarks": "PO 4",
+      "items": [
+        {
+          "type": "Consumable",
+          "name": "Vixal",
+          "qtyVal": 1,
+          "qtyStr": "1 Pcs"
+        },
+        {
+          "type": "Consumable",
+          "name": "Wipol",
+          "qtyVal": 1,
+          "qtyStr": "1 Pcs"
+        }
+      ],
+      "issuer": "Sawiyah"
+    }
+  ],
   "apdTransactions": [
     {
       "id": "TRX-APD-001",
@@ -144,6 +167,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670221835",
+      "title": "Transaksi Barang Masuk (Restock)",
+      "message": "2 jenis barang dicatat untuk PT. Payung Sekaki.",
+      "icon": "fa-info-circle",
+      "time": "15:23",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670129635",
       "title": "Transaksi ATK Dihapus",
