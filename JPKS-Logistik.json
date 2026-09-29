@@ -1,7 +1,7 @@
 {
-  "version": 7,
-  "lastUpdated": "2026-09-29T08:18:54.818Z",
-  "lastUpdatedBy": "Sawiyah",
+  "version": 9,
+  "lastUpdated": "2026-09-29T08:19:13.956Z",
+  "lastUpdatedBy": "Nofrizal",
   "users": [
     {
       "fullName": "Nofrizal Yakkub",
@@ -17,13 +17,6 @@
     }
   ],
   "employees": [
-    {
-      "idBadge": "EMP-001",
-      "name": "Budi Santoso",
-      "department": "Engineering",
-      "email": "budi.santoso@tripatra.com",
-      "status": "Aktif"
-    },
     {
       "idBadge": "EMP-002",
       "name": "Siti Rahma",
@@ -223,6 +216,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669953956",
+      "title": "Karyawan Dihapus",
+      "message": "Karyawan 'Budi Santoso' telah dihapus dari sistem.",
+      "icon": "fa-info-circle",
+      "time": "15:19",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669934818",
       "title": "Karyawan Ditambahkan",
