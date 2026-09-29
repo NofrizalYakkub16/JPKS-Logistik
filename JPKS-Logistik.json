@@ -1,7 +1,7 @@
 {
-  "version": 32,
-  "lastUpdated": "2026-09-29T08:23:41.835Z",
-  "lastUpdatedBy": "Sawiyah",
+  "version": 34,
+  "lastUpdated": "2026-09-29T08:31:48.067Z",
+  "lastUpdatedBy": "Nofrizal",
   "users": [
     {
       "fullName": "Nofrizal Yakkub",
@@ -32,30 +32,7 @@
       "status": "Aktif"
     }
   ],
-  "transactions": [
-    {
-      "id": "TRX-1790670221835",
-      "date": "29/09/2026 15:23",
-      "transType": "IN",
-      "partner": "PT. Payung Sekaki",
-      "remarks": "PO 4",
-      "items": [
-        {
-          "type": "Consumable",
-          "name": "Vixal",
-          "qtyVal": 1,
-          "qtyStr": "1 Pcs"
-        },
-        {
-          "type": "Consumable",
-          "name": "Wipol",
-          "qtyVal": 1,
-          "qtyStr": "1 Pcs"
-        }
-      ],
-      "issuer": "Sawiyah"
-    }
-  ],
+  "transactions": [],
   "apdTransactions": [
     {
       "id": "TRX-APD-001",
@@ -167,6 +144,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670708067",
+      "title": "Transaksi ATK Dihapus",
+      "message": "Log transaksi untuk PT. Payung Sekaki dihapus oleh Nofrizal.",
+      "icon": "fa-info-circle",
+      "time": "15:31",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670221835",
       "title": "Transaksi Barang Masuk (Restock)",
