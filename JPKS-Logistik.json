@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "lastUpdated": "2026-09-29T08:19:17.180Z",
+  "version": 13,
+  "lastUpdated": "2026-09-29T08:19:20.220Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -203,7 +203,7 @@
   ],
   "notifications": [
     {
-      "id": "NOTIF-1790669957180",
+      "id": "NOTIF-1790669960220",
       "title": "Karyawan Dihapus",
       "message": "Karyawan 'Ahmad Fauzi' telah dihapus dari sistem.",
       "icon": "fa-info-circle",
