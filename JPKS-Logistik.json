@@ -1,7 +1,7 @@
 {
-  "version": 5,
-  "lastUpdated": "2026-09-29T08:16:55.220Z",
-  "lastUpdatedBy": "Nofrizal",
+  "version": 7,
+  "lastUpdated": "2026-09-29T08:18:54.818Z",
+  "lastUpdatedBy": "Sawiyah",
   "users": [
     {
       "fullName": "Nofrizal Yakkub",
@@ -50,6 +50,13 @@
       "name": "Dewi Lestari",
       "department": "HSE & Safety",
       "email": "dewi.lestari@tripatra.com",
+      "status": "Aktif"
+    },
+    {
+      "idBadge": "2618",
+      "name": "SAWIYAH POHAN",
+      "department": "SUBCON",
+      "email": "gn.tripatra@gardatama.com",
       "status": "Aktif"
     }
   ],
@@ -216,6 +223,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669934818",
+      "title": "Karyawan Ditambahkan",
+      "message": "Karyawan baru 'SAWIYAH POHAN' (2618) berhasil didaftarkan.",
+      "icon": "fa-info-circle",
+      "time": "15:18",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669815221",
       "title": "Akun Didaftarkan",
