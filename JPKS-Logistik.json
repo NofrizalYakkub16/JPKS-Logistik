@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdated": "2026-09-29T08:16:31.012Z",
+  "version": 4,
+  "lastUpdated": "2026-09-29T08:16:33.316Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -8,12 +8,6 @@
       "username": "Nofrizal",
       "password": "Nofrizal123",
       "role": "Master Admin"
-    },
-    {
-      "fullName": "Guest Auditor",
-      "username": "visitor",
-      "password": "123",
-      "role": "Visitor"
     }
   ],
   "employees": [
@@ -216,6 +210,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669793316",
+      "title": "Akun Dihapus",
+      "message": "Pengguna 'visitor' telah dihapus dari sistem.",
+      "icon": "fa-info-circle",
+      "time": "15:16",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669791012",
       "title": "Akun Dihapus",
