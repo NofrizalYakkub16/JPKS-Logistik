@@ -1,6 +1,6 @@
 {
-  "version": 38,
-  "lastUpdated": "2026-09-29T08:38:35.819Z",
+  "version": 40,
+  "lastUpdated": "2026-09-29T08:40:48.563Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -98,16 +98,7 @@
       "issuer": "Nofrizal"
     }
   ],
-  "assets": [
-    {
-      "code": "AST-TRIPATRA-FC-9912",
-      "name": "Filling Cabinet 4 Laci",
-      "category": "Asset Kantor",
-      "serial": "FC-9912",
-      "location": "Ruang Admin",
-      "status": "Bagus"
-    }
-  ],
+  "assets": [],
   "toolLoans": [
     {
       "id": "TLOAN-01",
@@ -121,12 +112,20 @@
   ],
   "notifications": [
     {
+      "id": "NOTIF-1790671117131",
+      "title": "Asset Dihapus",
+      "message": "Asset 'Theodolite Digital Nikon' telah dihapus.",
+      "icon": "fa-info-circle",
+      "time": "15:38",
+      "read": true
+    },
+    {
       "id": "NOTIF-1790671115819",
       "title": "Asset Dihapus",
       "message": "Asset 'Theodolite Digital Nikon' telah dihapus.",
       "icon": "fa-info-circle",
       "time": "15:38",
-      "read": false
+      "read": true
     },
     {
       "id": "NOTIF-1790671113915",
@@ -134,7 +133,7 @@
       "message": "Asset 'Generator Genset 50KVA' telah dihapus.",
       "icon": "fa-info-circle",
       "time": "15:38",
-      "read": false
+      "read": true
     },
     {
       "id": "NOTIF-1790671112019",
@@ -142,7 +141,7 @@
       "message": "Asset 'Mesin Las Miller 400A' telah dihapus.",
       "icon": "fa-info-circle",
       "time": "15:38",
-      "read": false
+      "read": true
     },
     {
       "id": "NOTIF-1790670708067",
