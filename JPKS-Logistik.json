@@ -1,7 +1,7 @@
 {
-  "version": 27,
-  "lastUpdated": "2026-09-29T08:21:39.092Z",
-  "lastUpdatedBy": "Nofrizal",
+  "version": 29,
+  "lastUpdated": "2026-09-29T08:22:07.697Z",
+  "lastUpdatedBy": "Sawiyah",
   "users": [
     {
       "fullName": "Nofrizal Yakkub",
@@ -33,34 +33,6 @@
     }
   ],
   "transactions": [
-    {
-      "id": "TRX-ATK-001",
-      "date": "28/09/2026 08:30",
-      "transType": "IN",
-      "partner": "PT Graha Sarana Kertas",
-      "remarks": "Restock Bulanan Gudang Utama JPKS",
-      "items": [
-        {
-          "type": "ATK",
-          "name": "Kertas HVS A4 80gr SiDu",
-          "qtyVal": 50,
-          "qtyStr": "50 Rim"
-        },
-        {
-          "type": "ATK",
-          "name": "Pulpen Faster C600 Hitam",
-          "qtyVal": 20,
-          "qtyStr": "20 Box"
-        },
-        {
-          "type": "Consumable",
-          "name": "Tinta Printer Epson 003 Black",
-          "qtyVal": 12,
-          "qtyStr": "12 Pcs"
-        }
-      ],
-      "issuer": "Nofrizal"
-    },
     {
       "id": "TRX-ATK-002",
       "date": "28/09/2026 14:15",
@@ -195,6 +167,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670127697",
+      "title": "Transaksi ATK Dihapus",
+      "message": "Log transaksi untuk PT Graha Sarana Kertas dihapus oleh Sawiyah.",
+      "icon": "fa-info-circle",
+      "time": "15:22",
+      "read": false
+    },
     {
       "id": "NOTIF-1790670099092",
       "title": "Karyawan Dihapus",
