@@ -1,7 +1,7 @@
 {
-  "version": 19,
-  "lastUpdated": "2026-09-29T08:19:30.284Z",
-  "lastUpdatedBy": "Nofrizal",
+  "version": 22,
+  "lastUpdated": "2026-09-29T08:20:39.958Z",
+  "lastUpdatedBy": "Sawiyah",
   "users": [
     {
       "fullName": "Nofrizal Yakkub",
@@ -22,6 +22,13 @@
       "name": "SAWIYAH POHAN",
       "department": "SUBCON",
       "email": "gn.tripatra@gardatama.com",
+      "status": "Aktif"
+    },
+    {
+      "idBadge": "225005",
+      "name": "Nofrizal Yakkub",
+      "department": "Support",
+      "email": "Nofrizal.Yakkub@tripatra.com",
       "status": "Aktif"
     }
   ],
@@ -188,6 +195,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790670039958",
+      "title": "Karyawan Ditambahkan",
+      "message": "Karyawan baru 'Nofrizal Yakkub' (225005) berhasil didaftarkan.",
+      "icon": "fa-info-circle",
+      "time": "15:20",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669970284",
       "title": "Karyawan Dihapus",
