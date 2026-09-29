@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "lastUpdated": "2026-09-29T08:19:15.532Z",
+  "version": 11,
+  "lastUpdated": "2026-09-29T08:19:17.180Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -17,13 +17,6 @@
     }
   ],
   "employees": [
-    {
-      "idBadge": "EMP-003",
-      "name": "Ahmad Fauzi",
-      "department": "Procurement",
-      "email": "ahmad.fauzi@tripatra.com",
-      "status": "Non - Aktif"
-    },
     {
       "idBadge": "EMP-004",
       "name": "Rian Hidayat",
@@ -209,6 +202,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669957180",
+      "title": "Karyawan Dihapus",
+      "message": "Karyawan 'Ahmad Fauzi' telah dihapus dari sistem.",
+      "icon": "fa-info-circle",
+      "time": "15:19",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669955532",
       "title": "Karyawan Dihapus",
