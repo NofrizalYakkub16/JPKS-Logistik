@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "lastUpdated": "2026-09-29T08:19:27.220Z",
+  "version": 19,
+  "lastUpdated": "2026-09-29T08:19:30.284Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -189,7 +189,7 @@
   ],
   "notifications": [
     {
-      "id": "NOTIF-1790669967220",
+      "id": "NOTIF-1790669970284",
       "title": "Karyawan Dihapus",
       "message": "Karyawan 'Dewi Lestari' telah dihapus dari sistem.",
       "icon": "fa-info-circle",
