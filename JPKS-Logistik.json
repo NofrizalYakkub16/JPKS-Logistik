@@ -1,6 +1,6 @@
 {
-  "version": 36,
-  "lastUpdated": "2026-09-29T08:38:32.019Z",
+  "version": 38,
+  "lastUpdated": "2026-09-29T08:38:35.819Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -100,22 +100,6 @@
   ],
   "assets": [
     {
-      "code": "TLS-TRIPATRA-SN-GEN-5510",
-      "name": "Generator Genset 50KVA",
-      "category": "Tools",
-      "serial": "SN-GEN-5510",
-      "location": "Yard Utama JPK",
-      "status": "Sedang Dipinjam"
-    },
-    {
-      "code": "TLS-TRIPATRA-SN-NIK-9921",
-      "name": "Theodolite Digital Nikon",
-      "category": "Tools",
-      "serial": "SN-NIK-9921",
-      "location": "Surveyor Room",
-      "status": "Bagus"
-    },
-    {
       "code": "AST-TRIPATRA-FC-9912",
       "name": "Filling Cabinet 4 Laci",
       "category": "Asset Kantor",
@@ -136,6 +120,22 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790671115819",
+      "title": "Asset Dihapus",
+      "message": "Asset 'Theodolite Digital Nikon' telah dihapus.",
+      "icon": "fa-info-circle",
+      "time": "15:38",
+      "read": false
+    },
+    {
+      "id": "NOTIF-1790671113915",
+      "title": "Asset Dihapus",
+      "message": "Asset 'Generator Genset 50KVA' telah dihapus.",
+      "icon": "fa-info-circle",
+      "time": "15:38",
+      "read": false
+    },
     {
       "id": "NOTIF-1790671112019",
       "title": "Asset Dihapus",
