@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "lastUpdated": "2026-09-29T08:19:20.220Z",
+  "version": 14,
+  "lastUpdated": "2026-09-29T08:19:22.636Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -17,13 +17,6 @@
     }
   ],
   "employees": [
-    {
-      "idBadge": "EMP-004",
-      "name": "Rian Hidayat",
-      "department": "Construction",
-      "email": "rian.hidayat@tripatra.com",
-      "status": "Aktif"
-    },
     {
       "idBadge": "EMP-005",
       "name": "Dewi Lestari",
@@ -202,6 +195,14 @@
     }
   ],
   "notifications": [
+    {
+      "id": "NOTIF-1790669962636",
+      "title": "Karyawan Dihapus",
+      "message": "Karyawan 'Rian Hidayat' telah dihapus dari sistem.",
+      "icon": "fa-info-circle",
+      "time": "15:19",
+      "read": false
+    },
     {
       "id": "NOTIF-1790669960220",
       "title": "Karyawan Dihapus",
