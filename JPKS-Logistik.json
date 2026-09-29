@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "lastUpdated": "2026-09-29T08:19:22.636Z",
+  "version": 16,
+  "lastUpdated": "2026-09-29T08:19:24.468Z",
   "lastUpdatedBy": "Nofrizal",
   "users": [
     {
@@ -196,7 +196,7 @@
   ],
   "notifications": [
     {
-      "id": "NOTIF-1790669962636",
+      "id": "NOTIF-1790669964468",
       "title": "Karyawan Dihapus",
       "message": "Karyawan 'Rian Hidayat' telah dihapus dari sistem.",
       "icon": "fa-info-circle",
